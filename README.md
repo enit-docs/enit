@@ -1,1 +1,2 @@
-# enit.github.io
+* A SIMPLE hosted WEB PAGE TO FACILITATE THE SHARING OF School'S DOCUMENTS ACCORDING TO THE DIFFERENT CLASSES. 
+https://enit-docs.github.io/enit/
