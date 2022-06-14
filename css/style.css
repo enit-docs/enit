@@ -96,7 +96,7 @@ p{
 ---------------------------------*/
 
 .header{
-	text-align:center;
+	text-align:left;
 	background:url(../img/pw_maze_black_2X.png) left top repeat;
 	padding:280px 0;
 }
@@ -125,7 +125,6 @@ p{
 	font-family: 'Montserrat',sans-serif;
 	font-size:14px;
 	color: #bcbcbc;
-	text-transform: uppercase;
 	font-weight: 400;
 	margin:0 5px 0 0;
 	padding:0 0 0 15px;
