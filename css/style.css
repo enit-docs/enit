@@ -873,6 +873,8 @@ border: 2px solid #fff;
 	display: inline-block;
 	width: 30px; /* Set a fixed width for square buttons */
 	height: 30px; /* Set a fixed height for square buttons */
+	margin-top: 4px;
+	margin-bottom: 4px;
 	background-color: #333;
 	border: 1px solid #000;
 	border-radius: 0; /* Remove border radius to make it square */
