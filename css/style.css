@@ -124,7 +124,7 @@ p{
 	display:inline-block;
 	font-family: 'Montserrat',sans-serif;
 	font-size:14px;
-	color: #bcbcbc;
+	color: #ffffff;
 	font-weight: 400;
 	margin:0 5px 0 0;
 	padding:0 0 0 15px;
@@ -867,3 +867,69 @@ border: 2px solid #fff;
 	animation-delay: 1.2s; 
 	-webkit-animation-delay: 1.2s; 
 }
+
+/* Default button style */
+.button-13 {
+	display: inline-block;
+	width: 30px; /* Set a fixed width for square buttons */
+	height: 30px; /* Set a fixed height for square buttons */
+	background-color: #333;
+	border: 1px solid #000;
+	border-radius: 0; /* Remove border radius to make it square */
+	box-shadow: rgba(0, 0, 0, 0.2) 0 2px 5px 0;
+	box-sizing: border-box;
+	color: #fff;
+	cursor: pointer;
+	font-family: "Amazon Ember", sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	user-select: none;
+	-webkit-user-select: none;
+	touch-action: manipulation;
+	vertical-align: middle;
+	transition: background-color 0.3s, box-shadow 0.3s;
+  }
+
+/* Hover state */
+.button-13:hover {
+    background-color: #2980b9; /* Slightly darker blue on hover */
+}
+
+/* Focus state */
+.button-13:focus {
+    border-color: #3498db;
+    box-shadow: rgba(0, 0, 0, 0.2) 0 2px 5px 0;
+    outline: 0;
+}
+
+body {
+	font-family: Arial, sans-serif;
+	background-color: #f2f2f2;
+  }
+  table {
+	width: 100%;
+	max-width: 800px;
+	margin: 20px auto;
+	background-color: white;
+	border-collapse: collapse;
+  }
+  th, td {
+	padding: 10px;
+	text-align: center;
+	border: 1px solid #000;
+  }
+  th {
+	background-color: #333;
+	color: white;
+  }
+  td {
+	background-color: #fff;
+  }
+  a {
+	text-decoration: none;
+  }
+  h1 {
+	color: #3498db;
+  }
